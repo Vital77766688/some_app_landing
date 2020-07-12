@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 51 40" width="51" height="40">
+	<defs>
+		<image width="51" height="40" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADMAAAAoBAMAAAChnt9BAAAAAXNSR0IB2cksfwAAADBQTFRFAAAAAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAqxVewAAABB0Uk5TAESZu3cRiP/dM2bM7lWqIv1QthYAAAElSURBVHiczdO/SgNBEAbwTzCKllrY2EoewIithZBKOMROsLWPR75gjpAu2NkpaJHOWoIcloKwlZDOxoew8AGc3ewme5fZPlPd3u92bmb/ADuHWrQyYIN63AEvCeoBJSdaQsMp2IEWDzwBByptWrpJz6JKbUdjjUaOhoqs01FXoecZKRkbI0/L0x7pqCCParJtaCzlTfbuq3TNwvWVSzW3Fbkk391q5NgnDyJZM+xknhrH7P8uqM1iDE92Oz/mcu62MRB+bK2z2Co5yCLyYyy+mhOupKiweF+okP331K5Q01cUkVRsH55CHxHZl6+4YBjGJM1xYmxLS2QLYCimRtgV+cxUktPfClKnOFaJ9OuwJ1QmbqVcve+E9OU4JuhNsv6danEG/ANJBsQz2d0IvgAAAABJRU5ErkJggg=="/>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+	</style>
+	<use id="icon-font-3" href="#img1" x="0" y="0" />
+</svg>

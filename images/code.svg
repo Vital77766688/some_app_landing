@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 52 39" width="52" height="39">
+	<defs>
+		<image width="52" height="39" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADQAAAAnBAMAAACyFHbtAAAAAXNSR0IB2cksfwAAADBQTFRFAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBKa0pUQAAABB0Uk5TAER3/+6IzCKZZqoRM91Vu4/+nEYAAAFISURBVHicdZNPSsNAFMaf1dpoahG8gNAb+MWY+qcI2boo9AJClrrzAkIuUMgFhC7duHLRVcHiWvACvYMX8GUmk3kvOg/CTN43v8n3Zl6IdBxTKHrJLCTt4zYkPeE5JFVYhKQl3rqp6M6OeUq00XuWyboednBGwzxTEGBM93HNj7JSIjXfOMIXxQUyBT147+8ScxCNsSWFMfQqva88VrarcKkTUbtoxN5VxkMRLtQ+HjLeJeYh+oC7LZMUkPXusbmo/ScRpZ7zDaXuHuLGO5myJ3TgDol4OnESH9aCBNZ6txAJbA/3ChJY672BBDbGWkMeK5IOZLBHHgauwk/4lqtQd43zPsx9ETXGzXaIK/O2gexTgzXeFWSwGZ3gtJ73oZu7Yo9z6z0uJMQY9833jZ2v/vwRA2TdlIsepiHJef8ndvESkkbLrU78AsZ6XFuHq2g/AAAAAElFTkSuQmCC"/>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+	</style>
+	<use id="icon-font-4" href="#img1" x="0" y="0" />
+</svg>

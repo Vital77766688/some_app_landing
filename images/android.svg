@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 33 39" width="33" height="39">
+	<defs>
+		<image width="33" height="39" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACEAAAAnBAMAAABzkzxBAAAAAXNSR0IB2cksfwAAACdQTFRFAAAAAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEB7rcxTAAAAA10Uk5TAHdEEbtmVe7/iDMiqsdk1VEAAADSSURBVHicY2AAAkYFEMmgyAAHzA5gyhkhwhBqJuIiZhqAJGJe0dHRUW6AEGAFCXR0lCJEIjogAK6NtaMQpKiwog1uSofDDKDIBI92mEkzOlpAeoCEAFSkogMGCiACXHCBji6ICBNCpAmsQptZCQ6UubWAbmlXQlKjDnRTRYcTkogH0PAONJGGISkyoyMJSSSjYwIDqxBy+DCJYgsxBgZuhEg3NOQl4CKwuOAGhmITCGsjorkD7IwGBspFCoCRgixyouMAEDsgiSxpMWAwaVkAZgMAj2bVLvu40RoAAAAASUVORK5CYII="/>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+	</style>
+	<use id="icon-fa-android" href="#img1" x="0" y="0" />
+</svg>

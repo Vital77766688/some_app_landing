@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 33 39" width="33" height="39">
+	<defs>
+		<image width="33" height="39" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACEAAAAnBAMAAABzkzxBAAAAAXNSR0IB2cksfwAAADBQTFRFAAAAAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAqxVewAAABB0Uk5TAFWqM93/u2buEUR3iMwimRISztYAAADsSURBVHicY2CAA0YlBlTA7BqGJlIaGoSmJDQ0HFWELTS0E1VkaWjoBlSRo6GxaAanht5EEwmNmcC1EsrmOxvadpBh1+SzoaHeE8AiO0KBIOyQK4hqBwnwhyKDAqDIVhSRKKApKAKhH9A1xQM1TUURuQD2MjJYABT5iiwQC3E9EogGux4ZhGOIRGGIYOqKAYlcRRYJwbALi0c9ISGOBEBRxoEiEqqJ7vfQCAEGLlSRUAF0y0D2i6KIhEMiHAk4AEVQDRKAxDiqexgY5qK5GRg/rQjXGEAi3hbI9tn9BUg6Q5MC55aQX0DKOhWcEACAGJ7tfTKT8AAAAABJRU5ErkJggg=="/>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+	</style>
+	<use id="icon-fa-apple" href="#img1" x="0" y="0" />
+</svg>

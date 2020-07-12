@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 39 39" width="39" height="39">
+	<defs>
+		<image width="39" height="39" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACcAAAAnBAMAAAB+jUwGAAAAAXNSR0IB2cksfwAAAC1QTFRFAAAAAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBV56HmwAAAA90Uk5TABFEZnequ/8izDOI3VWZ2HIn3wAAAF5JREFUeJxjYEADQiZhBSgCHCpu08vLy5EEF3nnlEMAVFDoyjOmcjgACnIou6YDWSiCmVAWimD5CBZ0gQIOFzhwQI8NCMCqchD6iG6CWNMS1lSHPX3iTMk40zxS7gAAGSkdjEZ4iskAAAAASUVORK5CYII="/>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+	</style>
+	<use id="icon-fa-windows" href="#img1" x="0" y="0" />
+</svg>
