@@ -92,6 +92,12 @@ body.lock {
 
 header {
 	background-color: #fcdb00;
+	position: fixed;
+	top: 0;
+	left: 0;
+	width: 100%;
+	padding: 60px 0 50px;
+	transition: all 0.3s linear 0s;
 }
 
 .header__row {
@@ -100,7 +106,7 @@ header {
 }
 
 .brand {
-	margin: 60px 0 0;
+	/*margin: 60px 0 0;*/
 	padding: 0 0 0 7px;
 	width: 160px;
 	height: 44px;
@@ -113,7 +119,8 @@ header {
 }
 
 nav {
-	margin: 72px 0 0;
+	/*margin: 72px 0 0;*/
+	margin: 12px 0 0;
 }
 
 .menu {
@@ -177,6 +184,8 @@ nav {
 
 main {
 	flex: 1 1 auto;
+	margin: 154px 0 0;
+	transition: all 0.3s linear 0s;
 }
 
 
@@ -184,7 +193,8 @@ main {
 
 .slider {
 	background-color: #fcdb00;
-	padding: 70px 0 107px;
+	/*padding: 70px 0 107px;*/
+	padding: 20px 0 107px;
 }
 
 .slider__row {
@@ -360,14 +370,21 @@ footer {
 		max-width: 540px;
 	}
 
+	
+	/* Header */
+
 	.brand {
-		margin: 30px 0 0;
+		/*margin: 30px 0 0;*/
 		position: relative;
 		z-index: 2;
+		/*border: 1px solid #000;*/
 	}
 
 	.burger {
 		display: block;
+		/*margin: 40px 7px 0 0;*/
+		margin: 12px 7px 0 0;
+		/*border: 1px solid #000;*/
 	}
 
 	.burger span {
@@ -404,9 +421,10 @@ footer {
 		font-size: 32px;
 	}
 
-	.burger {
-		margin: 40px 7px 0 0;
-	}
+	/* End header*/
+
+	/* Slider */
+
 
 	.slider__row {
 		flex-direction: column;
@@ -442,6 +460,11 @@ footer {
 		margin: 0 auto;
 	}
 
+	/* End slider */
+
+	/* Features */
+
+
 	.features {
 		padding: 87px 0 0;
 	}
@@ -458,6 +481,11 @@ footer {
 		margin: 0 20px 0 0;
 	}
 
+	/* End features */
+
+	/* Subscribe */
+
+
 	.subscribe {
 		padding: 66px 0 26px;
 	}
@@ -471,9 +499,16 @@ footer {
 		width: 100%;
 	}
 
+	/* End subscribe */
+
+	/* Footer */
+
+
 	footer {
 		padding: 0 0 62px;
 	}
+
+	/* End footer */
 }
 
 
@@ -481,6 +516,14 @@ footer {
 @media screen and (max-width: 575px) {
 	.container {
 		max-width: none;
+	}
+
+	header {
+		padding: 30px 0 25px;
+	}
+
+	main {
+		margin: 99px 0 0;
 	}
 
 	.slider__icon {
